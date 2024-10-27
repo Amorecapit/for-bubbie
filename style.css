@@ -26,7 +26,7 @@ h1 {
 }
 
 .hero img {
-  max-width: 85%;
+  max-width: 90%;
   height: auto;
   border-radius: 10px;
   transition: transform 0.3s;
@@ -62,7 +62,7 @@ h2 {
 }
 
 .audio-container audio {
-  width: 100%; /* Membuat kontrol audio memenuhi lebar kontainer */
+  width: 50%; /* Membuat kontrol audio memenuhi lebar kontainer */
   outline: none; /* Menghapus outline default */
 }
 
