@@ -62,7 +62,7 @@ h2 {
 }
 
 .audio-container audio {
-  width: 50%; /* Membuat kontrol audio memenuhi lebar kontainer */
+  width: 60%; /* Membuat kontrol audio memenuhi lebar kontainer */
   outline: none; /* Menghapus outline default */
 }
 
